@@ -1,7 +1,7 @@
 import React from "react";
 import { Product } from "@/types";
 import NoResults from "@/components/ui/NoResults";
-import ProductCard from "./ui/ProductCard";
+import ProductCard from "./ProductCard";
 
 interface ProductListProps {
   title: string;
